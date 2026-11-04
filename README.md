@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://github.com/YuttakanS"><img src="https://img.shields.io/github/followers/YuttakanS?label=Follow&style=flat-square&color=21262d" alt="Followers"></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=flat-square&logo=gmail" alt="Email"></a>
+    <a href="mailto:yuttakan.ploykrajang11101@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=flat-square&logo=gmail" alt="Email"></a>
   </p>
 
 </div>
